@@ -1,6 +1,6 @@
 # Project Team 09 Repository
 
-Project Team 09: TITAN GLOBAL TECHNOLOGY\
+Project Team 09: TITAN GLOBAL TECHNOLOGY
 
 ## Project Team Members:
 STEVEN KAING
