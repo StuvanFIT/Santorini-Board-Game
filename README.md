@@ -1,16 +1,12 @@
-# FIT3077 Project Team 09 Repository
+# Project Team 09 Repository
 
 Project Team 09: TITAN GLOBAL TECHNOLOGY\
-Workshop: Tuesday 04:00 PM
 
 ## Project Team Members:
-DYLAN HOANG : dhoa0009@student.monash.edu\
-TRANG DAI HONG (VIVIAN) : thon0014@student.monash.edu\
-TONY LY : tlyy0017@student.monash.edu\
-STEVEN KAING : skai0008@student.monash.edu
-
-A3 INDIVIDUAL STUDENT : STEVEN KAING : skai0008@student.monash.edu
-
+STEVEN KAING
+DYLAN HOANG
+TRANG DAI HONG (VIVIAN)
+TONY LY
 
 
 
@@ -22,9 +18,6 @@ DEMONSTRATION VIDEO OF EXECUTABLE
 FOUND IN OUR WIKI PAGE: Creating Executable: [[How to create an executable|Welcome-to-our-FIT3077-Team-09-WIKI-PAGE/How-to-create-an-executable-with-Intellij]]
 
 ![image info](src/images/Other/EXECUTABLE.png)
-
-
-
 
 
 **Convert runnable file into .jar file:**
@@ -162,41 +155,4 @@ JRE -> Bundled JRE path: C:\Program Files\Java\jdk-23
 3. Upload image
 
 4. Convert to ICO and download .ico
-
-## File Structure
-This is the breakdown of the project's file structure:
-- **Sprint 1** folder contains all relevant documentation and submission artifacts for that sprint.
-    - This includes Domain Model final copy and previous drafts
-    - Prototypes of team member's performing spikes for the Java Swing library
-    - Lo-fi UI design copies during all stages, plans, drafts and final.
-    - User stories
-    - Entire Sprint 1 deliverable pdf
-- **Sprint 2** folder contains some relevant documentation and submission artifacts for that sprint.
-  - The rest is included inside this README file such as **executable instructions**, **contribution log** and project team **google drive** that has files on the **testing** (FIT3077 Project Team 09 -Sprint 2 - User Based Testing) we did during development.
-  - UML and Sequence diagrams
-- **src** folder is the source code in which all coding logic resides in. 
-- **Team Resources** is a directory for documents that will help the entire team. This includes:
-  - executable instructions for both MAC and windows OS.
-  - mp4 video that demonstrates how to create an executable.
-  - 
-  
-
-## Team Resource Links:
--Instructions on how to create Executable/JAR file and resolve any BUGS
-https://git.infotech.monash.edu/FIT3077/fit3077-s1-2025/assignment-groups/CL_Tuesday04pm_Team009/project/-/tree/main/Team%20Resources?ref_type=heads
-
--Project Team Google Drive:
-https://drive.google.com/drive/u/2/folders/1KEdSwnhj7a4bsgujuKMF5BsBm-H1i0xR
-
--GITLAB WIKI PAGE:
-https://git.infotech.monash.edu/FIT3077/fit3077-s1-2025/assignment-groups/CL_Tuesday04pm_Team009/project/-/wikis/Welcome-to-our-FIT3077-Team-09-WIKI-PAGE
-
--JIRA Project Management tool:
-https://kaingsteven123-1743068722042.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNjIzNWM5NjM2YTgzNDZmNDk0ZDc3ZDhmNWFlNDE4M2EiLCJwIjoiaiJ9
-
--Project Team Contribution Log:
-https://docs.google.com/spreadsheets/d/1ebxulG-6BvhhM3JSgmqc0eWXoluLSPZLb0NKHGSGDY0/edit?gid=0#gid=0
-
--Project Team GITLAB link:
-https://git.infotech.monash.edu/FIT3077/fit3077-s1-2025/assignment-groups/CL_Tuesday04pm_Team009/project
 
