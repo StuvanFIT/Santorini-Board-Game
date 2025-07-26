@@ -8,6 +8,32 @@ DYLAN HOANG\
 TRANG DAI HONG (VIVIAN)\
 TONY LY
 
+## About the Santorini Board Game
+Santorini is a re-imagining of the purely abstract 2004 edition.
+
+Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore. Santorini features variable player powers layered over an otherwise abstract game, with 40 thematic god and hero powers that fundamentally change the way the game is played.
+
+The rules are simple. Each turn consists of 2 steps:
+
+1. Move - move one of your builders into a neighboring space. You may move your Builder Pawn on the same level, step-up one level, or step down any number of levels.
+
+2. Build - Then construct a building level adjacent to the builder you moved. When building on top of the third level, place a dome instead, removing that space from play.
+
+If either of your builders moves up to the third level, you win.
+
+
+You can download the `SantoriniBoardGameApp.jar` file to run the desktop application!
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## (WINDOWS) How to create a JAR file and Convert JAR file into an executable.
